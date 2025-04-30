@@ -1,7 +1,9 @@
-# 📝 Java To-Do List Manager
+# 📝 To-Do List Manager
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+![To Do List](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY3NTgxcHFuN2JiM3hkNG5nM2ZyMWdsbWljbTVrbzdobGI2bTUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4l77hPSt37L68fy4vf/giphy.gif)
 
 A lightweight console-based task management application written in Java.
 
